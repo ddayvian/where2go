@@ -200,7 +200,7 @@ function addRestroomMarkers(restrooms) {
             map: map,
             title: restroom.name || 'Public Restroom',
             icon: {
-                url: 'toilet.png',
+                url: 'https://icon2.cleanpng.com/20180719/gus/ab5f9815d6fae731d31c800213f1d12a.webp',
                 scaledSize: new google.maps.Size(32, 32)
             }
         });
