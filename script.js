@@ -213,7 +213,7 @@ function addRestroomMarkers(restrooms) {
                     <p style=\"margin: 0; font-size: 12px;\">${restroom.street || 'Address not available'}</p>
                     ${restroom.accessible ? '<p style=\\\"margin: 4px 0 0 0; font-size: 12px; color: green;\\\">♿ Accessible</p>' : ''}
                     <button id=\"${btnId}\" 
-                            style=\"margin-top: 8px; padding: 4px 8px; background: #267373; color: white; border: none; border-radius: 4px; cursor: pointer;\">
+                            style=\"margin-top: 8px; padding: 4px 8px; background: #72b8f0; color: white; border: none; border-radius: 4px; cursor: pointer;\">
                         Get Directions
                     </button>
                 </div>

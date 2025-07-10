@@ -158,7 +158,7 @@ footer {
     margin-right: 6px;
     margin-bottom: 8px;
     border: none;
-    background: #267373;
+    background:  #72b8f0;
     color: #fff;
     border-radius: 4px;
     font-size: 1em;
@@ -166,7 +166,7 @@ footer {
     transition: background 0.2s;
 }
 .finder-layout .sidebar button:hover {
-    background: #145454;
+    background: #5ba7e4;
 }
 .finder-layout #restroom-list {
     margin-top: 18px;
